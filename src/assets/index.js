@@ -1,4 +1,4 @@
-import parthmittal from "./parth.svg";
+import ishuyadav from "./parth.svg";
 import profilePic from "./profile-pic.jpg";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
@@ -15,7 +15,6 @@ import facebook from "./facebook.svg";
 import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
-import nitk from "./nitk.png";
 import cluboard from "./cluboard.png";
 import cash_flow from "./cash_flow.jpg";
 import freadom from "./freadom.jpg";
@@ -64,7 +63,7 @@ export {
   instagram,
   linkedin,
   twitter,
-  nitk,
+  devfolio,
   cluboard,
   cash_flow,
   freadom,
@@ -79,7 +78,7 @@ export {
   publiclab,
   zulip,
   cdc,
-  parthmittal,
+  ishuyadav,
   profilePic,
   chargeswap,
   placeicon,
@@ -88,8 +87,7 @@ export {
   oracle,
   comicify_ai,
   greentrust,
-  averlon,
-  devfolio,
+  averlon,  
   pba,
   ethglobal,
   polkadot,
